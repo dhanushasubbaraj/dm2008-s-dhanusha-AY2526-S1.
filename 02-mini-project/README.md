@@ -1,4 +1,4 @@
-#Reflection
+# Reflection
 
 Working on the Flappy Bird Project was a highly rewarding experience for us as we had the opportunity to apply the concepts learnt in class. While we were confident of our coding ability to effectively use logic, algorithms, and debugging skills, we discovered that this project required a lot more than coding, in terms of design and creativity. 
 
