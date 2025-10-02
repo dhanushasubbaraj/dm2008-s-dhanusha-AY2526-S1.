@@ -1,3 +1,5 @@
+#Reflection
+
 Working on the Flappy Bird Project was a highly rewarding experience for us as we had the opportunity to apply the concepts learnt in class. While we were confident of our coding ability to effectively use logic, algorithms, and debugging skills, we discovered that this project required a lot more than coding, in terms of design and creativity. 
 
 To start with, we divided our tasks equally so that each of us could focus on different features of the game. While one of us worked on developing a suitable start screen, switching between day/night modes, and the overall design of the game, the other worked more on logic and algorithms, such as collision detection, gravity, and the scoring metrics. This helped us to progress well and presented the opportunity to impart our knowledge with one another when our tasks overlapped.
